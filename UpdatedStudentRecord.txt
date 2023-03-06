@@ -1,0 +1,15 @@
+bsse02163133|Syed Ali|ali4321|male|O-|120000|120000|0|model town, E block, Lahore|Pakistan|Lahore|0320 43778575|makhdoom@gmain.com|BSSE|
+bsse02163134|Waqas Ahmed|waqas4321|male|O-|120000|120000|0|model town, E block, Lahore|Pakistan|Lahore|0320 43778575|hussain@gmain.com|BSSE|
+bsse02163135|Sohaib Altaf|sohaib4321|male|O-|120000|120000|0|model town, E block, Lahore|Pakistan|Lahore|0320 43778575|fahad@gmain.com|BSSE|
+bsse02163136|Taimoor Ali|taimoor4321|male|O-|120000|120000|0|model town, E block, Lahore|Pakistan|Lahore|0320 43778575|talha@gmain.com|BSSE|
+bsse02163137|Shehroz ali|shehroz4321|male|O-|120000|120000|0|model town, E block, Lahore|Pakistan|Lahore|0320 43778575|saffi@gmain.com|BSSE|
+bsse02163138|Ammar Shahid|ammar4321|male|O-|120000|120000|0|model town, E block, Lahore|Pakistan|Lahore|0320 43778575|Asaad@gmain.com|BSSE|
+bsse02163139|Muzzamil Raja|muzzamil4321|male|O-|120000|120000|0|model town, E block, Lahore|Pakistan|Lahore|0320 43778575|Kamran@gmain.com|BSSE|
+bsse02163140|Haji Sherry|sherry4321|male|O-|120000|120000|0|model town, E block, Lahore|Pakistan|Lahore|0320 43778575|makhdoom@gmain.com|BSSE|
+bsse02163141|Makhdoom Ali|makhdoom4321|male|O-|120000|120000|0|model town, E block, Lahore|Pakistan|Lahore|0320 43778575|hussain@gmain.com|BSSE|
+bsse02163142|Hussain Ahmed|hussain4321|male|O-|120000|120000|0|model town, E block, Lahore|Pakistan|Lahore|0320 43778575|fahad@gmain.com|BSSE|
+bsse02163143|Fahad Farooq|fahad4321|male|O-|120000|120000|0|model town, E block, Lahore|Pakistan|Lahore|0320 43778575|talha@gmain.com|BSSE|
+bsse02163144|Talha Altaf|talha4321|male|O-|120000|120000|0|model town, E block, Lahore|Pakistan|Lahore|0320 43778575|saffi@gmain.com|BSSE|
+bsse02163145|Saffi Shehzad|saffi4321|male|O-|120000|120000|0|model town, E block, Lahore|Pakistan|Lahore|0320 43778575|Asaad@gmain.com|BSSE|
+bsse02163146|Asaad Mushtaq|asaad4321|male|O-|120000|120000|0|model town, E block, Lahore|Pakistan|Lahore|0320 43778575|Kamran@gmain.com|BSSE|
+bsse02163147|Muhammed Kamran|Kamran4321|male|O-|120000|120000|0|model town, E block, Lahore|Pakistan|Lahore|0320 43778575|Kamran@gmain.com|BSSE|

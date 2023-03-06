@@ -1,0 +1,14 @@
+Name|Subject|Monday|Tuesday|Wednesday|Thursday|Friday|
+Waqas|Java|P|P|P|P|P|
+Sohaib|Java|P|P|P|P|P|
+Shehroz|Java|P|P|P|P|P|
+Taimor|Java|P|P|P|P|P|
+Ali|Java|P|P|P|P|P|
+Ahmer|Java|P|P|P|P|P|
+Makhdoom|Java|P|P|P|P|P|
+Hussain|Java|P|P|P|P|P|
+Talha|Java|P|P|P|P|P|
+Fahad|Java|P|P|P|P|P|
+Haider|Java|P|P|P|P|P|
+Saffi|Java|P|P|P|P|P|
+Ammar|Java|P|P|P|P|P|
