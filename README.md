@@ -1,4 +1,4 @@
-#Student Information & Management System
+# Student Information & Management System
 
 This Project was basically on a system that is developed for a University to save the data of students in records and manage that records and allow students to access this system for checking their information.
 
